@@ -2,7 +2,7 @@
 using System.Collections;
 
 [AddComponentMenu("Playground/Actions/Dialogue Balloon")]
-public class DialogueBalloonAction : Action
+public class DialogueBalloonAction : PGAction
 {
 
 	[Header("Contents")]

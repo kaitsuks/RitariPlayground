@@ -2,7 +2,7 @@
 using System.Collections;
 
 [AddComponentMenu("Playground/Actions/Teleport")]
-public class TeleportAction : Action
+public class TeleportAction : PGAction
 {
 	public GameObject objectToMove;
 	public Vector2 newPosition;

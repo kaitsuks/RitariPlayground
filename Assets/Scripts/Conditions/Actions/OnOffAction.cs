@@ -2,7 +2,7 @@
 using System.Collections;
 
 [AddComponentMenu("Playground/Actions/On-Off")]
-public class OnOffAction : Action
+public class OnOffAction : PGAction
 {
 	public GameObject objectToAffect;
 	public bool justMakeInvisible;

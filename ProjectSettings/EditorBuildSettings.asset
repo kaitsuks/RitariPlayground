@@ -23,12 +23,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Examples/Roguelike/Roguelike.unity
     guid: ad15a26015e49439387b05c22fe7a962
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Kuulasade.unity
     guid: 9cafbb8d5c6e65244b87667ec57a242d
   - enabled: 0
     path: Assets/Scenes/Testi2.unity
     guid: 54129839bace40948bca87be2ce486bd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Kuulasade2.unity
     guid: a6bb029c632352241b22c4dcccfef11c
+  - enabled: 1
+    path: Assets/Scenes/Ritari1.unity
+    guid: d5bb01dcd8044c342ac2e803fbac730b

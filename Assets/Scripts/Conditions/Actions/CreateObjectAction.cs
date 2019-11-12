@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 [AddComponentMenu("Playground/Actions/Create Object")]
-public class CreateObjectAction : Action
+public class CreateObjectAction : PGAction
 {
 	public GameObject prefabToCreate;
 	public Vector2 newPosition;

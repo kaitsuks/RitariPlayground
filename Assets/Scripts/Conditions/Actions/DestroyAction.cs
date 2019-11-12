@@ -2,7 +2,7 @@
 using System.Collections;
 
 [AddComponentMenu("Playground/Actions/Destroy Action")]
-public class DestroyAction : Action
+public class DestroyAction : PGAction
 {
 	//who gets destroyed in the collision?
 	public Enums.Targets target = Enums.Targets.ObjectThatCollided;
